@@ -38,7 +38,7 @@ langchain-experimental==0.0.65
 langchain-openai==0.1.23
 langchain-text-splitters==0.2.4
 langgraph==0.2.18
-langgraph-checkpoint==1.0.9
+langgraph-checkpoint==4.1.1
 langsmith==0.1.114
 marshmallow==3.22.0
 matplotlib-inline==0.1.7
